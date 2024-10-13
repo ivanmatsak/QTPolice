@@ -1,0 +1,11 @@
+release/group.o
+release/main.o
+release/mainwindow.o
+release/shedule.o
+release/subject.o
+release/teacher.o
+release/moc_group.o
+release/moc_mainwindow.o
+release/moc_shedule.o
+release/moc_subject.o
+release/moc_teacher.o
